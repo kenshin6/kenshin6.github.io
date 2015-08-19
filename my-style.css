@@ -20,13 +20,16 @@
   }
 .hello {
   background-color: blue;
-  height: 50px;
-  width: 50px;
+  height: 100px;
+  width: 100px;
   display: inline-block;
   }
 .goodbye {
   background-color: red;
-  height: 100px;
-  width: 100px;
-  border-radius: 15px;
+  height: 150px;
+  width: 150px;
+  border-radius: 50px;
+  }
+.explanation {
+  background-color: #D0D050;
   }
