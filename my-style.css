@@ -1,0 +1,32 @@
+.nav li{
+  display: inline;
+  padding: 14px 10px;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: bold
+}
+.nav .translate{
+  position: absolute;
+  top: 12px;
+  right: 10px;
+}
+.nav {
+}
+.jumbotron {
+  background-image: url("file:////Users/jeffreygoldman/my-site/img/IMG_5633.JPG"); 
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+.hello {
+  background-color: blue;
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+  }
+.goodbye {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  border-radius: 15px;
+  }
