@@ -18,6 +18,11 @@
   background-repeat: no-repeat;
   background-size: cover;
   }
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;
+  font-weight: bold;
+  }
 .jumbotron2 {
   background-color: #F3F4EC;
   }
