@@ -18,6 +18,9 @@
   background-repeat: no-repeat;
   background-size: cover;
   }
+.jumbotron2 {
+  background-color: #F3F4EC;
+  }
 .hello {
   background-color: blue;
   height: 100px;
