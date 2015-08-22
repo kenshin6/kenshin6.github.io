@@ -31,12 +31,13 @@
   height: 150px;
   width: 150px;
   display: inline-block;
-  border-radius: 50 px
+  border-radius: 50px;
   }
 .goodbye {
   background-color: red;
   height: 300px;
   width: 300px;
+  display: inline-block;
   border-radius: 100px;
   }
 .explanation {
