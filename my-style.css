@@ -42,8 +42,12 @@
   display: inline-block;
   border-radius: 100px;
   }
-.box {
+#box {
 	display: inline-block;
+}
+#box li {
+    list-style-type: none;
+}
 .explanation {
   background-color: #D0D050;
   }
