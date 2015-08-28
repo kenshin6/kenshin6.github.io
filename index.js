@@ -1,6 +1,6 @@
 $(document).ready(function(){
-	$(".hello").click(function(){
-		$(this).toggleClass("goodbye hello");
+	$("div.hello").click(function(){
+		$(this).toggleClass("hello goodbye");
 	});
 	$(".goodbye").draggable();
 	});
