@@ -2,6 +2,8 @@ $(document).ready(function(){
 	$(".hello").click(function(){
 		$(this).toggleClass("goodbye hello");
 	});
-	$(".goodbye").draggable();
+	$(".goodbye").mousedown(function(){
+		$(this).draggable();
+	});
 });
 	
