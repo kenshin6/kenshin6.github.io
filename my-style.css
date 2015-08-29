@@ -33,6 +33,7 @@
   text-align: center;
   display: inline-block;
   border-radius: 0px;
+  position: absolute;
   }
 .goodbye {
   background-color: red;
@@ -41,6 +42,7 @@
   text-align: center;
   display: inline-block;
   border-radius: 100px;
+  position: absolute
   }
 #box {
 	display: inline-block;
