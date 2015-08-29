@@ -17,15 +17,15 @@
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
-  }
+}
 .jumbotron h1 {
   color: white;
   font-size: 48px;
   font-weight: bold;
-  }
+}
 .jumbotron2 {
   background-color: #F3F4EC;
-  }
+}
 .hello {
   background-color: blue;
   height: 150px;
@@ -34,7 +34,7 @@
   display: inline-block;
   border-radius: 0px;
   position: absolute;
-  }
+}
 .goodbye {
   background-color: red;
   height: 300px;
@@ -43,7 +43,7 @@
   display: inline-block;
   border-radius: 100px;
   position: absolute
-  }
+}
 #box {
 	display: inline-block;
 }
