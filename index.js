@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$("div.hello").click(function(){
+	$(".hello").click(function(){
 		$(this).toggleClass("hello goodbye");
 	});
 	$(".goodbye").draggable();
