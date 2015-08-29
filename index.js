@@ -9,7 +9,7 @@ $(document).ready(function(){
 
   $(document).mousedown(function(e){ 
     if( e.button == 2 ) { 
-      $(".goodbye").animate({left: '250px'}, {complete: function(){
+      $(".goodbye").animate({left: '750px'}, {complete: function(){
       $(".goodbye").hide();
       }}); 
       return false; 
