@@ -3,6 +3,5 @@ $(document).ready(function(){
 		$(this).toggleClass("hello goodbye");
 	});
 	$(".goodbye").draggable();
-	});
 });
 	

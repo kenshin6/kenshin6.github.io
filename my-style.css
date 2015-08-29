@@ -32,7 +32,7 @@
   width: 150px;
   text-align: center;
   display: inline-block;
-  border-radius: 50px;
+  border-radius: 0px;
   }
 .goodbye {
   background-color: red;
